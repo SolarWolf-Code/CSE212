@@ -1,4 +1,3 @@
-from tkinter import TkVersion
 import pandas as pd
 import altair as alt
 
